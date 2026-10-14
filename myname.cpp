@@ -1,7 +1,8 @@
-#include<iostream>\
-using namespace std;\
-int main() {\
-    cout << "Hello, World!" << endl;\
-    cout << "This is a C++14 program." << endl;\
-    return 0;\
+#include<iostream>
+using namespace std;
+int main() {
+    cout << "Hello, World!" << endl;
+    cout << "This is a C++14 program." << endl;
+    cout << "It demonstrates basic input and output." << endl;
+    return 0;
 }
